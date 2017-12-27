@@ -1,0 +1,95 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="'Open Sans',sans-serif,arial" href="https://fonts.googleapis.com/css?family=Open+Sans" />
+  </mj-head>
+
+  <mj-body>
+    <mj-container>
+      <mj-section background-color="#0a2b5c">
+        <mj-column>
+          <mj-image padding="0" src="http://colegiosantaamalia.com.br/mailmktg/mailmkt2/header01.jpg" alt="Mais do que aprender" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#0a2b5c">
+ <mj-column>
+       <mj-text padding-left="7%" padding-bottom="0" color="#ffffff" font-size="22px" align="left" font-family="'Open Sans',sans-serif,arial">
+          <p><b>Que tal encerrar 2017 com uma ótima escolha!?</b></p>
+        </mj-text>
+        <mj-text padding-left="7%" padding-bottom="0" color="#f9aa23" font-size="18px" align="left" font-family="'Open Sans',sans-serif,arial">
+          <p>Matricule o seu filho no programa High School Santa Amália<br>Maple Bear e ofereça o melhor ensino médio para ele.</p>
+        </mj-text>
+ </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#0a2b5c">
+ 
+        <!-- left image -->
+       <mj-group>
+        <mj-column>
+          <mj-image padding-bottom="0" src="http://colegiosantaamalia.com.br/mailmktg/mailmkt2/body01_left.jpg" alt="diplomas brasileiro e canadense" />
+          <mj-text padding-top="0" color="#ffffff" font-size="16px" align="center" font-family="Open-Sans, sans-serif">
+          <p>diplomas brasileiro<br>e canadense</p>
+        </mj-text>
+        </mj-column>
+        </mj-group> 
+
+        <!-- right image -->
+<mj-group> 
+
+        <mj-column>
+          <mj-image padding-bottom="0px" src="http://colegiosantaamalia.com.br/mailmktg/mailmkt2/body02_right.jpg" alt="estudando as mesmas matérias e rotinas de alunos no Canadá" />
+          <mj-text padding-top="0" color="#ffffff" font-size="16px" align="center" font-family="Open-Sans, sans-serif">
+          <p>estudando as mesmas matérias<br>e rotinas de alunos no Canadá</p>
+        </mj-text>
+        </mj-column>
+      </mj-group>   
+      </mj-section>
+      <mj-section background-color="#0a2b5c">
+        <!-- left image -->
+<mj-group> 
+
+        <mj-column>
+          <mj-image padding-bottom="0px" src="http://colegiosantaamalia.com.br/mailmktg/mailmkt2/body03_left.jpg" alt="orientações parao futuro profissional" />
+          <mj-text padding-top="0" color="#ffffff" font-size="16px" align="center" font-family="Open-Sans, sans-serif">
+          <p>orientações para<br>o futuro profissional</p>
+        </mj-text>
+        </mj-column>
+</mj-group> 
+
+        <!-- right image -->
+<mj-group> 
+
+        <mj-column>
+          <mj-image padding-bottom="0px" src="http://colegiosantaamalia.com.br/mailmktg/mailmkt2/body04_right.png" alt="E muito mais" />
+          <mj-text padding-top="0px" color="#ffffff" font-size="16px" align="center" font-family="Open-Sans, sans-serif">
+          <p>E muito mais!</p>
+        </mj-text>
+        </mj-column>
+</mj-group> 
+      </mj-section>
+      <mj-section background-color="#0a2b5c">
+        <mj-column>
+        <mj-text color="#f9aa23" font-size="16px" align="center" font-family="Open-Sans, sans-serif">
+          <p>Não deixe para 2018, garanta o melhor para o seu filho agora!</p>
+        </mj-text>
+       </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#0a2b5c">
+
+        <mj-column>
+          <mj-image padding="0" src="http://colegiosantaamalia.com.br/mailmktg/mailmkt2/logo.jpg" alt="Logo Colegio Santa Amalia" />
+        </mj-column>
+
+      </mj-section>
+
+      <mj-section padding="0" background-color="#0a2b5c">
+        <mj-column>
+          <mj-image padding="0" src="http://colegiosantaamalia.com.br/mailmktg/mailmkt2/footer.jpg" href="http://colegiosantaamalia.com.br/" alt="Colegio Santa Amalia" />
+        </mj-column>
+
+    </mj-container>
+  </mj-body>
+</mjml>

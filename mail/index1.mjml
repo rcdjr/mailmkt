@@ -1,0 +1,81 @@
+<mjml>
+
+  <mj-head>
+    <mj-style>
+      .colors { color:#f9aa23}
+    </mj-style>
+  
+    <mj-font name="'Open Sans',sans-serif,arial" href="https://fonts.googleapis.com/css?family=Open+Sans" />
+ 
+  </mj-head>
+
+  <mj-body>
+    <mj-container>
+      <mj-section padding="0" background-color="#0a2b5c">
+        <mj-column>
+          <mj-image padding="0" src="http://colegiosantaamalia.com.br/mailmktg/mailmkt1/header_01.jpg" alt="Mais do que aprender conhecer o futuro, Colegio Santa Amalia" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#0a2b5c">
+
+
+        <mj-column>
+          <mj-text color="#ffffff" font-size="22px" align="left" padding="6%" font-family="'Open Sans',sans-serif,arial"><p><b> Escolha o <a class="colors">melhor ensino <br>médio </a>para seu fiho!</b></p>
+          </mj-text>
+        </mj-column>
+
+
+      </mj-section>
+
+      <mj-section background-color="#0a2b5c">
+
+        <!-- right image -->
+
+        <mj-column width="35%">
+          <mj-image padding-left="2%" width="100%px" src="http://colegiosantaamalia.com.br/mailmktg/mailmkt1/body_01.jpg" />
+        </mj-column>
+
+
+        <!-- left paragraph -->
+
+
+        <mj-column width="65%">
+          <mj-text color="#f9aa23" font-size="18px" align="left" padding-left="20px" font-family="'Open Sans',sans-serif,arial">
+            <p>No programa High School Santa Amália Maple Bear o seu filho sai na frente!</p>
+          </mj-text>
+          <mj-text color="#ffffff" font-size="16px" align="left" padding-left="20px" font-family="'Open Sans',sans-serif,arial">
+            <p> Ao se formar, ele recebe o diploma brasileiro e também o diploma canadense, que é reconhecido pelo governo de Manitoba.</p>
+            <p>Ou seja, os jovens formados no nosso <b>High School</b> têm acesso garantido às melhores universidades do Canadá.</p>
+
+          </mj-text>
+
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0" background-color="#0a2b5c">
+        <mj-column>
+          <mj-image padding="0" src="http://colegiosantaamalia.com.br/mailmktg/mailmkt1/body_02.jpg" alt="De muito mais oportunidades para seu filho" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#0a2b5c">
+
+        <mj-column>
+          <mj-text color="#ffffff" font-size="16px" align="left" font-family="'Open Sans',sans-serif,arial">Além da dupla formação, ele estará estudando em um <b>colégio bilíngue</b> com todas as ferramentas para se tornar fluente em inglês e ainda vivenciar as mesmas matérias e rotinas de alunos canadenses.
+          </mj-text>
+
+          <mj-text color="#f9aa23" font-size="16px" align="left" font-family="'Open Sans',sans-serif,arial">Venha conhecer o colégio Santa Amália e descobrir ainda mais vantagens do nosso programa High School.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0" background-color="#0a2b5c">
+        <mj-column>
+
+          <mj-image padding="0" src="http://colegiosantaamalia.com.br/mailmktg/mailmkt1/footer.jpg" href="http://colegiosantaamalia.com.br/" alt="colegio Santa Amalia" />
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+</mjml>
