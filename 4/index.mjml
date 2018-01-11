@@ -1,0 +1,114 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-font name="Open Sans,sans-serif,arial" href="https://fonts.googleapis.com/css?family=Open+Sans" />
+    <mj-style>
+      .colors { color:#f9aa23}
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-container>
+
+      <mj-section background-color="#0a2b5c">
+        <mj-column>
+          <mj-image padding="0" src="https://raw.githubusercontent.com/rcdjr/mailmkt/master/4/imgs/header.png" alt="Quer oferecer muito mais prara seu filho?" />
+
+          <!-- <mj-image padding="0" src="http://colegiosantaamalia.com.br/mailmktg/mailmkt3/header_logos.png" alt="Mais do que aprender conhecer o futuro Colegio SantaAmalia" />
+			-->
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#0a2b5c">
+        <mj-column>
+          <mj-text line-height="28px" padding-bottom="0" color="#ffffff" font-size="22px" align="center" font-family="Open Sans,sans-serif,arial">
+            <p><b>Os jovens que se formam no <a class="colors" color="#f9aa23"> High School Santa Am&#225;lia Maple Bear </a> tem muito mais!</b></p>
+          </mj-text>
+
+
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#0a2b5c">
+        <!-- left image -->
+        <mj-group>
+          <mj-column>
+            <mj-image padding-bottom="0" src="https://raw.githubusercontent.com/rcdjr/mailmkt/master/4/imgs/1.png" alt="diplomas brasileiro e canadense" />
+            <mj-text padding-top="0" padding-left="15%" color="#ffffff" font-size="16px" align="left" font-family="Open-Sans, sans-serif">
+              <p>Diplomas canadense e brasileiro reconhecidos pelos governos.</p>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+
+        <!-- right image -->
+
+        <mj-group>
+          <mj-column>
+            <mj-image padding-bottom="0" src="https://raw.githubusercontent.com/rcdjr/mailmkt/master/4/imgs/2.png" alt="diplomas brasileiro e canadense" />
+            <mj-text padding-top="0" padding-left="15%" color="#ffffff" font-size="16px" align="left" font-family="Open-Sans, sans-serif">
+              <p>Oportunidade de interc&#226;mbio durante os estudos.</p>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section background-color="#0a2b5c">
+
+        <mj-group>
+          <mj-column>
+            <mj-image padding-bottom="0" padding-right="50%" width="250px" src="https://raw.githubusercontent.com/rcdjr/mailmkt/master/4/imgs/3-l.png" alt="diplomas brasileiro e canadense" />
+            <mj-text padding-top="0" padding-left="8%" color="#ffffff" font-size="16px" align="left" font-family="Open-Sans, sans-serif">
+              <p>Grade curricular e rotinas escolares iguais a de high schools do Canad&#225;. O que possibilita uma forma&#231;&#227;o realmente bil&#237;ngue e integrada com ensino de primeiro mundo.</p>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section background-color="#0a2b5c">
+
+        <mj-group>
+          <mj-column>
+            <mj-image padding-bottom="0" padding-right="50%" width="250px" src="https://raw.githubusercontent.com/rcdjr/mailmkt/master/4/imgs/4-l.png" alt="diplomas brasileiro e canadense" />
+            <mj-text padding-top="0" padding-left="8%" color="#ffffff" font-size="16px" align="left" font-family="Open-Sans, sans-serif">
+              <p>&#218;nica escola de S&#227;o Paulo com programa <b>Maple Bear </b> e certifica&#231;&#227;o com o governo canadense.</p>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+
+      <mj-section background-color="#0a2b5c">
+        <!-- left image -->
+        <mj-group>
+          <mj-column>
+
+            <mj-text padding="0" padding-left="15%" color="#ffffff" font-size="16px" align="left" font-family="Open-Sans, sans-serif">
+              <p>N&#227;o perca tempo! Ofere&#231;a o melhor futuro para o seu filho j&#225;!</p>
+            </mj-text>
+            <mj-image padding-bottom="0" src="https://raw.githubusercontent.com/rcdjr/mailmkt/master/4/imgs/fim1.png" alt="diplomas brasileiro e canadense" />
+          </mj-column>
+        </mj-group>
+
+        <!-- right image -->
+
+        <mj-group>
+          <mj-column>
+            <mj-image padding="0" src="https://raw.githubusercontent.com/rcdjr/mailmkt/master/4/imgs/fim2.png" alt="conhecer o futuro" />
+
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="0" background-color="#0a2b5c">
+        <mj-column>
+          <mj-image padding="0" src="https://raw.githubusercontent.com/rcdjr/mailmkt/master/4/imgs/footer.png" href="http://colegiosantaamalia.com.br/" alt="Colegio Santa Amalia" />
+
+          <!--<mj-image padding="0" src="http://colegiosantaamalia.com.br/mailmktg/mailmkt2/footer.jpg" href="http://colegiosantaamalia.com.br/" alt="Colegio Santa Amalia" />-->
+
+
+        </mj-column>
+      </mj-section>
+    </mj-container>
+
+  </mj-body>
+</mjml>
